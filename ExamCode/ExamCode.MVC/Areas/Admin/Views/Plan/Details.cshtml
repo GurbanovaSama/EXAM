@@ -1,0 +1,22 @@
+﻿@model Plan
+
+
+<div class="container">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary"> Details</h6>
+        </div>
+        <div class="card-body">
+           
+            <p>Id: @Model.Id</p>
+            <p>Title: @Model.Name</p>
+            <p>Description: @Model.Description</p>
+            <p>Minimum price: @Model.Price</p>
+            <p>Create time: @Model.CreatedAt</p>
+            @if (Model.UpdatedAt is not null)
+            {
+                <p>Update time: @Model.UpdatedAt</p>
+            }
+        </div>
+    </div>
+</div>}

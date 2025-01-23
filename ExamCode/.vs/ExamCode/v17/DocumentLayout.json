@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\examcode\\examcode.bl\\services\\implementations\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\services\\implementations\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\examcode\\examcode.bl\\services\\implementations\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\services\\implementations\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\examcode\\examcode.bl\\services\\abstractions\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\services\\abstractions\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\examcode\\examcode.mvc\\areas\\admin\\views\\plan\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\views\\plan\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\examcode\\examcode.mvc\\areas\\admin\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\examcode\\examcode.mvc\\areas\\admin\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\examcode\\examcode.mvc\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlanService.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.BL\\Services\\Implementations\\PlanService.cs",
+              "RelativeDocumentMoniker": "ExamCode.BL\\Services\\Implementations\\PlanService.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.BL\\Services\\Implementations\\PlanService.cs",
+              "RelativeToolTip": "ExamCode.BL\\Services\\Implementations\\PlanService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:29:38.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.BL\\Services\\Implementations\\MemberService.cs",
+              "RelativeDocumentMoniker": "ExamCode.BL\\Services\\Implementations\\MemberService.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.BL\\Services\\Implementations\\MemberService.cs",
+              "RelativeToolTip": "ExamCode.BL\\Services\\Implementations\\MemberService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:28:21.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.BL\\Services\\Abstractions\\IMemberService.cs",
+              "RelativeDocumentMoniker": "ExamCode.BL\\Services\\Abstractions\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.BL\\Services\\Abstractions\\IMemberService.cs",
+              "RelativeToolTip": "ExamCode.BL\\Services\\Abstractions\\IMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:28:20.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Update.cshtml",
+              "RelativeDocumentMoniker": "ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Update.cshtml",
+              "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Update.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T08:26:42.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Update.cshtml",
+              "RelativeDocumentMoniker": "ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Update.cshtml",
+              "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T08:26:34.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "ExamCode.MVC\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:16:51.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlanController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Controllers\\PlanController.cs",
+              "RelativeDocumentMoniker": "ExamCode.MVC\\Areas\\Admin\\Controllers\\PlanController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Controllers\\PlanController.cs",
+              "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Controllers\\PlanController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:16:50.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
