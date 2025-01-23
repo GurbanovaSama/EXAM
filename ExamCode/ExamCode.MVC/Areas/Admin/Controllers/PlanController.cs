@@ -38,7 +38,7 @@ namespace ExamCode.MVC.Areas.Admin.Controllers
             {
                 await _planService.CreateAsync(id);
                 await _planService.SaveChangeAsync();
-                return View();
+                return RedirectToAction("Index");
             }
             catch (BaseException ex)
             {

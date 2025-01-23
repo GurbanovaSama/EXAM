@@ -42,7 +42,7 @@ namespace ExamCode.MVC.Areas.Admin.Controllers
             {
                 await _memberService.CreateAsync(id);
                 await _memberService.SaveChangeAsync();
-                return View();
+                return RedirectToAction("Index");
             }
             catch(BaseException ex)
             {
@@ -85,7 +85,7 @@ namespace ExamCode.MVC.Areas.Admin.Controllers
         public async Task<IActionResult> Details()
         {
             await _memberService.GetMemberViewItemsAsync();
-            return View();          
+            return RedirectToAction("Index");
         }
 
 
