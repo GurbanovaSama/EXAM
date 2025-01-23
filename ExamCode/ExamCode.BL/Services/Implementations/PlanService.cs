@@ -34,7 +34,7 @@ namespace ExamCode.BL.Services.Implementations
              _planRepo.Delete(plan);
         }
 
-        public async Task<Plan> GetByIdAsync(int id) => await _planRepo.GetByIdAsync(id) ?? throw new BaseException();
+        public async Task<Plan> GetByIdAsync(int id) => await _planRepo.GetByIdAsync(id);
 
         public async Task<ICollection<PlanViewItemDto>> GetByIdChildrenViewAsync() => _mapper.Map<ICollection<PlanViewItemDto>>(await _planRepo.GetAllAsync("member"));
 

@@ -19,7 +19,8 @@ namespace ExamCode.MVC.Areas.Admin.Controllers
 
         public async Task<IActionResult> Index(int id)
         {
-            Plan list = await _planService.GetByIdAsync(id);
+            ICollection<PlanListItemDto> list = await _planService.GetPlanListAsync();  
+            
             return View(list);
         }
 

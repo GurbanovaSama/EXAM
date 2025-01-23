@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YKFvUM3fMfI=",
+  "dgSpecHash": "i+ANdccxv4E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ca r221.14\\Desktop\\ExamCode\\ExamCode.BL\\ExamCode.BL.csproj",
+  "projectFilePath": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\ExamCode.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ca r221.14\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ca r221.14\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

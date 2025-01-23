@@ -22,7 +22,8 @@ namespace ExamCode.MVC.Areas.Admin.Controllers
 
         public async Task<IActionResult> Index( int id)
         {
-           Member list = await _memberService.GetByIdAsync(id);
+            ICollection<MemberListItemDto>  list = await _memberService.GetMemberListAsync();        
+          
             return View(list);
         }
 

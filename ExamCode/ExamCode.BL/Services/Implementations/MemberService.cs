@@ -35,7 +35,7 @@ namespace ExamCode.BL.Services.Implementations
             _memberRepo.Delete(member);
         }
 
-        public async Task<Member> GetByIdAsync(int id) => await _memberRepo.GetByIdAsync(id) ?? throw new BaseException();
+        public async Task<Member> GetByIdAsync(int id) => await _memberRepo.GetByIdAsync(id);
 
         public async Task<MemberUpdateDto> GetByIdForUpdate(int id) => _mapper.Map<MemberUpdateDto>(await _memberRepo.GetByIdAsync(id));
 

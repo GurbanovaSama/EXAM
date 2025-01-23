@@ -1,34 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\",
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\codefinalexam\\examcode\\examcode.bl\\services\\implementations\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\services\\implementations\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\codefinalexam\\examcode\\examcode.bl\\services\\implementations\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\services\\implementations\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\codefinalexam\\examcode\\examcode.bl\\services\\abstractions\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\services\\abstractions\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\codefinalexam\\examcode\\examcode.mvc\\areas\\admin\\views\\plan\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\views\\plan\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\codefinalexam\\examcode\\examcode.mvc\\areas\\admin\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\codefinalexam\\examcode\\examcode.mvc\\areas\\admin\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.mvc\\areas\\admin\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\codefinalexam\\examcode\\examcode.mvc\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.mvc\\areas\\admin\\views\\plan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\views\\plan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.mvc\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.bl\\services\\implementations\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\services\\implementations\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.bl\\services\\implementations\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\services\\implementations\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.bl\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.bl\\services\\implementations\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\services\\implementations\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.bl\\services\\abstractions\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\services\\abstractions\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.bl\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.mvc\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.bl\\services\\abstractions\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\services\\abstractions\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.mvc\\areas\\admin\\views\\plan\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\views\\plan\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.mvc\\areas\\admin\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,40 +70,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Index.cshtml",
+              "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T08:50:32.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T08:48:38.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "ExamCode.BL\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\ConfigurationService.cs",
+              "RelativeToolTip": "ExamCode.BL\\ConfigurationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:45:17.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\Services\\Implementations\\IdentityService.cs",
+              "RelativeDocumentMoniker": "ExamCode.BL\\Services\\Implementations\\IdentityService.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\Services\\Implementations\\IdentityService.cs",
+              "RelativeToolTip": "ExamCode.BL\\Services\\Implementations\\IdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:44:54.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IIdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\Services\\Abstractions\\IIdentityService.cs",
+              "RelativeDocumentMoniker": "ExamCode.BL\\Services\\Abstractions\\IIdentityService.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\Services\\Abstractions\\IIdentityService.cs",
+              "RelativeToolTip": "ExamCode.BL\\Services\\Abstractions\\IIdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:44:43.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\DTOs\\UserDTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ExamCode.BL\\DTOs\\UserDTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\DTOs\\UserDTOs\\RegisterDto.cs",
+              "RelativeToolTip": "ExamCode.BL\\DTOs\\UserDTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:40:08.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\DTOs\\UserDTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ExamCode.BL\\DTOs\\UserDTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\DTOs\\UserDTOs\\LoginDto.cs",
+              "RelativeToolTip": "ExamCode.BL\\DTOs\\UserDTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:39:57.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExamCode.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExamCode.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:39:00.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PlanService.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\ExamCode.BL\\Services\\Implementations\\PlanService.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\Services\\Implementations\\PlanService.cs",
               "RelativeDocumentMoniker": "ExamCode.BL\\Services\\Implementations\\PlanService.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\ExamCode.BL\\Services\\Implementations\\PlanService.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\Services\\Implementations\\PlanService.cs",
               "RelativeToolTip": "ExamCode.BL\\Services\\Implementations\\PlanService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T08:29:38.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MemberService.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\ExamCode.BL\\Services\\Implementations\\MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\Services\\Implementations\\MemberService.cs",
               "RelativeDocumentMoniker": "ExamCode.BL\\Services\\Implementations\\MemberService.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\ExamCode.BL\\Services\\Implementations\\MemberService.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\Services\\Implementations\\MemberService.cs",
               "RelativeToolTip": "ExamCode.BL\\Services\\Implementations\\MemberService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCUAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T08:28:21.763Z"
+              "WhenOpened": "2025-01-23T08:28:21.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "IMemberService.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\ExamCode.BL\\Services\\Abstractions\\IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\Services\\Abstractions\\IMemberService.cs",
               "RelativeDocumentMoniker": "ExamCode.BL\\Services\\Abstractions\\IMemberService.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\ExamCode.BL\\Services\\Abstractions\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\Services\\Abstractions\\IMemberService.cs",
               "RelativeToolTip": "ExamCode.BL\\Services\\Abstractions\\IMemberService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,11 +216,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Update.cshtml",
               "RelativeDocumentMoniker": "ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Update.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Update.cshtml",
               "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Update.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -91,11 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Update.cshtml",
               "RelativeDocumentMoniker": "ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Update.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Update.cshtml",
               "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -103,27 +240,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "MemberController.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Controllers\\MemberController.cs",
               "RelativeDocumentMoniker": "ExamCode.MVC\\Areas\\Admin\\Controllers\\MemberController.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Controllers\\MemberController.cs",
               "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Controllers\\MemberController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwFsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T08:16:51.027Z"
+              "WhenOpened": "2025-01-23T08:16:51.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "PlanController.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Controllers\\PlanController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Controllers\\PlanController.cs",
               "RelativeDocumentMoniker": "ExamCode.MVC\\Areas\\Admin\\Controllers\\PlanController.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\CodeFinalExam\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Controllers\\PlanController.cs",
-              "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Controllers\\PlanController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwEsAAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Controllers\\PlanController.cs*",
+              "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Controllers\\PlanController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T08:16:50.266Z"
+              "WhenOpened": "2025-01-23T08:16:50.266Z",
+              "EditorCaption": ""
             }
           ]
         }

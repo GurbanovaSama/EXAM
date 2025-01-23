@@ -17,6 +17,7 @@ namespace ExamCode.BL
 
             services.AddScoped<IPlanService, PlanService>();
             services.AddScoped<IMemberService, MemberService>();
+            services.AddScoped<IIdentityService, IdentityService>();        
         }
     }
 }
