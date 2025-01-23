@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.mvc\\areas\\admin\\views\\plan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\views\\plan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.bl\\services\\implementations\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\services\\implementations\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.mvc\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.mvc\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.mvc\\areas\\admin\\views\\plan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\views\\plan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.bl\\services\\implementations\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|solutionrelative:examcode.bl\\services\\implementations\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.mvc\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51787B4F-EB26-41D7-91E9-79F82CDAABB5}|ExamCode.MVC\\ExamCode.MVC.csproj|solutionrelative:examcode.mvc\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F37180E-B264-4FD9-9F2C-1761F395C183}|ExamCode.BL\\ExamCode.BL.csproj|c:\\users\\ca r221.14\\desktop\\exam\\examcode\\examcode.bl\\services\\implementations\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +74,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Index.cshtml",
               "RelativeDocumentMoniker": "ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Index.cshtml",
@@ -82,12 +82,11 @@
               "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Views\\Plan\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T08:50:32.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T08:50:32.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Index.cshtml",
               "RelativeDocumentMoniker": "ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Index.cshtml",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Views\\Member\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T08:48:38.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T08:48:38.783Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "ExamCode.BL\\ConfigurationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T08:45:17.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T08:45:17.205Z"
             },
             {
               "$type": "Document",
@@ -121,8 +118,7 @@
               "RelativeToolTip": "ExamCode.BL\\Services\\Implementations\\IdentityService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T08:44:54.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T08:44:54.368Z"
             },
             {
               "$type": "Document",
@@ -134,8 +130,7 @@
               "RelativeToolTip": "ExamCode.BL\\Services\\Abstractions\\IIdentityService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T08:44:43.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T08:44:43.16Z"
             },
             {
               "$type": "Document",
@@ -147,8 +142,7 @@
               "RelativeToolTip": "ExamCode.BL\\DTOs\\UserDTOs\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T08:40:08.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T08:40:08.516Z"
             },
             {
               "$type": "Document",
@@ -160,8 +154,7 @@
               "RelativeToolTip": "ExamCode.BL\\DTOs\\UserDTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T08:39:57.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T08:39:57.629Z"
             },
             {
               "$type": "Document",
@@ -173,18 +166,17 @@
               "RelativeToolTip": "ExamCode.MVC\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T08:39:00.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T08:39:00.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "PlanService.cs",
               "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\Services\\Implementations\\PlanService.cs",
               "RelativeDocumentMoniker": "ExamCode.BL\\Services\\Implementations\\PlanService.cs",
               "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.BL\\Services\\Implementations\\PlanService.cs",
               "RelativeToolTip": "ExamCode.BL\\Services\\Implementations\\PlanService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T08:29:38.274Z",
               "EditorCaption": ""
@@ -199,8 +191,7 @@
               "RelativeToolTip": "ExamCode.BL\\Services\\Implementations\\MemberService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowCUAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T08:28:21.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T08:28:21.763Z"
             },
             {
               "$type": "Document",
@@ -246,7 +237,7 @@
               "RelativeDocumentMoniker": "ExamCode.MVC\\Areas\\Admin\\Controllers\\MemberController.cs",
               "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Controllers\\MemberController.cs",
               "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Controllers\\MemberController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T08:16:51.027Z",
               "EditorCaption": ""
@@ -259,7 +250,7 @@
               "RelativeDocumentMoniker": "ExamCode.MVC\\Areas\\Admin\\Controllers\\PlanController.cs",
               "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\EXAM\\ExamCode\\ExamCode.MVC\\Areas\\Admin\\Controllers\\PlanController.cs",
               "RelativeToolTip": "ExamCode.MVC\\Areas\\Admin\\Controllers\\PlanController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwBYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wCoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T08:16:50.266Z",
               "EditorCaption": ""

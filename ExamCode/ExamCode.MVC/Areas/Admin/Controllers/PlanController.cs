@@ -29,6 +29,9 @@ namespace ExamCode.MVC.Areas.Admin.Controllers
             return View();
         }
 
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(int id)
         {
             try

@@ -4,9 +4,12 @@ using ExamCode.BL.Exceptions;
 using ExamCode.BL.Services.Abstractions;
 using ExamCode.DAL.Models;
 using ExamCode.DAL.Repository.Abstractions;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ExamCode.BL.Services.Implementations
 {
+    [Area("Admin")]
+
     public class PlanService : IPlanService
     {
         readonly IRepository<Plan> _planRepo;
